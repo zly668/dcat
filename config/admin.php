@@ -11,7 +11,7 @@ return [
     | login page.
     |
     */
-    'name' => 'Data 数据',
+    'name' => 'Data',
 
     /*
     |--------------------------------------------------------------------------
@@ -22,7 +22,7 @@ return [
     | `img` tag, eg '<img src="http://logo-url" alt="Admin logo">'.
     |
     */
-    'logo' => '<img src="/vendors/dcat-admin/images/logo.png" width="35"> &nbsp;Data 数据交互平台',
+    'logo' => '<img src="/vendors/dcat-admin/images/logo.png" width="35"> &nbsp;Da',
 
     /*
     |--------------------------------------------------------------------------
